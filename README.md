@@ -9,6 +9,7 @@ Youtube links wont work in a local setup
 
 What this project contains:
 - navbar to navigate to other pages
+  ![alt page](https://github.com/iznaor/moviesRep/blob/main/light.png)
 - dark/light mode
 - database for adding movies
 - news segment for new articles
